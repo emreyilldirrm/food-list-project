@@ -1,4 +1,4 @@
-# fooflist
+# foodlist
 
 A new Flutter project.
 
