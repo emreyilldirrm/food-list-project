@@ -1,16 +1,17 @@
-# foodlist
+# Meal Listing App: Flutter
 
-A new Flutter project.
+This Flutter project is a simple mobile application that allows users to view a list of meals and explore the details of the selected ones. The application utilizes asynchronous programming with `Future` functions and employs the `ListView.builder` widget to dynamically display data.
 
-## Getting Started
+## Features
+- The meal list is presented with basic information such as name and details.
+- Asynchronous operations are used to fetch meal data from the internet.
+- `ListView.builder` is employed to create a dynamic list, making it easy to display a large number of meals.
+- Users can select any meal to access its details.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter framework
+- Dart programming language
+- `Future` functions for asynchronous programming
+- `ListView.builder` widget for dynamically listing data
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project serves as a suitable starting point for developers looking to strengthen their knowledge of Flutter and Dart.
