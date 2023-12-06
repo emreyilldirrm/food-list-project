@@ -1,6 +1,7 @@
 # Meal Listing App: Flutter
 
 This Flutter project is a simple mobile application that allows users to view a list of meals and explore the details of the selected ones. The application utilizes asynchronous programming with `Future` functions and employs the `ListView.builder` widget to dynamically display data.
+![f1](https://github.com/emreyilldirrm/food-list-project/assets/149498114/6aa504b8-ac4d-4619-9c9a-8496b99250c7)
 
 ## Features
 - The meal list is presented with basic information such as name and details.
