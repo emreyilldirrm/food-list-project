@@ -8,6 +8,7 @@ This Flutter project is a simple mobile application that allows users to view a 
 - Asynchronous operations are used to fetch meal data from the internet.
 - `ListView.builder` is employed to create a dynamic list, making it easy to display a large number of meals.
 - Users can select any meal to access its details.
+![f2](https://github.com/emreyilldirrm/food-list-project/assets/149498114/b06ab3b5-fc1d-4346-a809-67bb84d7e634)
 
 ## Technologies Used
 - Flutter framework
